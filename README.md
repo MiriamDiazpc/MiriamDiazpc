@@ -1,5 +1,7 @@
 <h1><strong>Hi World!</strong></h1>
 
+![me](https://images.pexels.com/photos/355952/pexels-photo-355952.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
 ```js
 const Miriam = { 
   pronouns: "she" | "her",
@@ -10,7 +12,7 @@ const Miriam = {
   }
 ```
 
-You can find me on 🌍:
+## You can find me on 🌍:
 - [LinkedIn](https://www.linkedin.com/in/miriam-diaz-portales-58465a141/)
 - [Wordpress](https://velusvi.wordpress.com/)
 
