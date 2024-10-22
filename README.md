@@ -5,7 +5,8 @@ const Miriam = {
   pronouns: "she" | "her",
   code: [Javascript, CSS, HTML],
   "learning tools": [Bootstrap, Node, React],
-  passions: ["web development", "web design", "design 3D", "videogames", "keep on learning"]
+  passions: ["web development" 💻, "web design" 🎨, "design 3D" ✏️, "videogames" 🎮, "keep on learning" 📚],
+  languages: ["Spanish" 💯, "English" 💯, "a bit of German" 🤏]
   }
 ```
 
