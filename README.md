@@ -1,10 +1,11 @@
 <h1><strong>Hi World!</strong></h1>
+
 ```js
-const Miriam = { </br>
-  <blockquote>pronouns: "she" | "her",</br></blockquote>
-  <blockquote>code: [Javascript, CSS, HTML],</br></blockquote>
-  <blockquote>"learning tools": [Bootstrap, Node, React, ],</br></blockquote>
-  <blockquote>passions: ["web development", "web design", "design 3D", "videogames", "keep on learning"]</blockquote>
+const Miriam = { 
+  pronouns: "she" | "her",
+  code: [Javascript, CSS, HTML],
+  "learning tools": [Bootstrap, Node, React, ],
+  passions: ["web development", "web design", "design 3D", "videogames", "keep on learning"]
   }
 ```
 
