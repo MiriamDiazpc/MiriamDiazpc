@@ -1,6 +1,6 @@
 <h1><strong>Hi World! Miriam is creating... ⏳</strong></h1>
 
-![me](https://images.pexels.com/photos/355952/pexels-photo-355952.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+<img align = "center" src = "https://images.pexels.com/photos/355952/pexels-photo-355952.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt = "creating" height = "550" width = "1000">
 
 ```js
 const Miriam = { 
