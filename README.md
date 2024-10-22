@@ -1,8 +1,8 @@
-## Hi World! 
-const Miriam = {
-  pronouns: "she" | "her",
-  code: [Javascript, CSS, HTML],
-  "learning tools": [Bootstrap, Node, React, ]
+<h1><strong>Hi World!</strong></h1>
+const Miriam = { </br>
+  pronouns: "she" | "her",</br>
+  code: [Javascript, CSS, HTML],</br>
+  "learning tools": [Bootstrap, Node, React, ]</br>
   }
 <!--
 **MiriamDiazpc/MiriamDiazpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
