@@ -4,7 +4,7 @@
 const Miriam = { 
   pronouns: "she" | "her",
   code: [Javascript, CSS, HTML],
-  "learning tools": [Bootstrap, Node, React, ],
+  "learning tools": [Bootstrap, Node, React],
   passions: ["web development", "web design", "design 3D", "videogames", "keep on learning"]
   }
 ```
